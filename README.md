@@ -19,7 +19,7 @@ import dynamicImport from "ts-dynamic-import-bridge";
 
 // only works in async
 async function load(): Promise<void> {
-	const myEsModule = await dynamicImport<myEsModuleType>("my-esmodule-name");
+  const myEsModule = await dynamicImport<myEsModuleType>("my-esmodule-name");
 }
 
 ```
