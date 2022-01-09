@@ -1,0 +1,12 @@
+{
+  "name": "ts-dynamic-import-bridge",
+  "version": "1.0.0",
+  "description": "Simple package allowing typescript projects to load node es modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

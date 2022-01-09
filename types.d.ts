@@ -1,0 +1,1 @@
+export default function<T>(module: string): T;
